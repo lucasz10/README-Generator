@@ -69,7 +69,7 @@ ${data.appDesc}
   * [Questions](#questions)
   * [Licenses](#licenses)
 
-## Installation
+## Installation Instructions
 
 ${data.appInstall}
 

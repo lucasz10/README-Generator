@@ -12,7 +12,7 @@ The ReadMe Generator allows for users to answer a few questions about their appl
   * [Questions](#questions)
   * [Licenses](#licenses)
 
-## Installation
+## Installation Instructions
 
 1. Install node on your device. 
 2. Clone this repository to your local device. 
